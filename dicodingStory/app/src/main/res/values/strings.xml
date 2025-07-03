@@ -1,0 +1,24 @@
+<resources>
+    <string name="email_error_message">Masukkan alamat email yang valid</string>
+
+    <string name="password_error_message">Password harus memiliki minimal 8 karakter</string>
+    <string name="app_name">dicodingStory</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="login">Sign-in</string>
+    <string name="register">Sign-up</string>
+    <string name="name">Nama</string>
+    <string name="description">Description</string>
+    <string name="stories">Stories</string>
+    <string name="add_story">Tambah Story</string>
+    <string name="add_new_story">Tambah Story baru</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="image_story">Gambar Story</string>
+    <string name="upload">Share Story</string>
+    <string name="logout">Sign-out</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Stories Location</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="error">Error Message</string>
+</resources>
